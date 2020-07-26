@@ -1,0 +1,14 @@
+---
+title: Analyzing the social dynamics of the 2020 New York and Milan Fashion Weeks.
+cover: assets/images/landing_cover.gif
+members: Francesco Alongi, Khouloud El Alami, Antonio Esposito, John Hughes, Andrea Pronzati, Cindy Xin
+description: Short description of the document for the meta tags (limit to 150 characters, longer will be cut by search engines)
+group: Group 05
+---
+The NY and MI Fashion Weeks have been a cultural staple of the two cities. With the rise of Social Media, these iconic events have been increasingly consumed online. With this new capacity to influence, and audience base that could never be reached before, it is important for the Fashion Brands to be knowledgeable of their followers in order to set themselves up for success during Fashion Week. 
+ 
+To explore this connection with Brands and their consumers, we began by exploring the most successful brands [Antonio] and what makes them successful [Antonio/Khouloud]. From this we get some key insights on the presence of celebrities at events and the influence and reach that they have, especially that of Thai and K-POP singers. To further understand how expansive the influence of these brands and celebrities are, we then analyzed the languages and locations of the Tweets during Fashion Week [John]. This began to provide an understanding of the communities that engage with the two weeks. Additionally, to analyze the online communities, we delved into community detection on the Instagram users who reacted to FW [Francesco]. This revealed three distinct clusters, one confirming the international communities identified above and the other two constituting distinct consumer circles of online users. Moreover, we analyzed how brands are related to each other considering common users as a measure to state a similar target market among brands, resulting in a high-level comprehension of how the digital audience is shared among brands [Francesco].
+ 
+With a better understanding of who was engaging with FW and enhanced the Brands knowledge of their audience, we also sought to gain a deeper knowledge of how these users reacted to the individual events of FW itself so that Brands could identify popular areas to target their approach. To do this we identified the key topics that were being talked about with each brand [Antonio]. This revealed the words that were most commonly being associated with each brand throughout FW. To learn not only what the users said but how exactly they reacted, we then analyzed the sentiment of FW reactions [Cindy]. The events garnered generally positive reactions overall and we were able to identify certain keywords that repeatedly appeared in positive tweets, and similarly for negative tweets.
+ 
+This research ultimately provides a comprehensive understanding of the two FW events that brands can utilize to better understand their online audience and what drives success at the event.
